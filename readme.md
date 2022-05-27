@@ -10,4 +10,4 @@ O indicador McGinley Dynamic é um tipo de média móvel que foi projetada para 
 ### Médias móveis
 As médias móveis vêm em todas as formas e tipos. O tipo mais básico é a média móvel simples que é simplesmente a soma dividida pela quantidade. A próxima representação matemática mostra como calcular uma média simples dado um conjunto de dados:
 
-<img src=https://miro.medium.com/max/700/0*qhPF5pUKRV4hkcz9.png width="350">
+<img src=https://miro.medium.com/max/700/0*qhPF5pUKRV4hkcz9.png width="500">
