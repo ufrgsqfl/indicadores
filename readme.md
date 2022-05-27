@@ -18,7 +18,7 @@ Portanto, a média móvel simples é a soma dos valores divididos pelo seu núme
 ### Média Dinâmica McGinley
 A dinâmica de McGinley não é muito conhecida, mas é altamente subestimada. Foi inventado por John R. McGinley como uma técnica de redução de lag semelhante às médias móveis. O conceito baseia-se no autoajusto no que diz respeito à velocidade do mercado. É calculado usando esta fórmula:
 
-<img src=https://miro.medium.com/max/473/1*CD0_qirtuL5Mfaxm9DkwBA.png width="500">
+<img src=https://miro.medium.com/max/473/1*CD0_qirtuL5Mfaxm9DkwBA.png width="350">
 
 O primeiro valor da dinâmica McGinley é o preço em si onde depois, aplicamos a fórmula acima. A letra k refere-se a uma constante que equivale a 0,60 e a N é a variável de olhar para o olhar. Assim como ajustamos os períodos de olhar em média móvel, podemos fazer a mesma coisa com a dinâmica McGinley.
 
